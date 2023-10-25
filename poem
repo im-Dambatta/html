@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title><h1>The Purple Cow</h1></title>
+        <title>The Purple Cow</title>
     </head>
-<body>
-    <p>I never saw a purple cow,
-    I never hope to see one,
-    But I can tell you, anyhow,
+<body><h1>The Purple Cow</h1>
+    <p>I never saw a purple cow,<br>
+    I never hope to see one,<br>
+    But I can tell you, anyhow,<br>
     I would rather see than be one!</p>
 </body>
 </html>
