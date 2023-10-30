@@ -1,0 +1,31 @@
+<!DOCTYPE HTML>
+
+<html>
+
+    <head>
+
+        <title>Challenge: Your learning list</title>
+
+        <meta charset="utf-8">
+
+    </head>
+
+    <body>
+        <h1>My Learning List(unordered)</h1>
+<ul>
+<li>Html</li>
+<li>CSS</li>
+<li>JavaScript</li> 
+<li>UI/UX design</li>   
+</ul>
+<h1>My Learning List(ordered)</h1>
+
+<ol>
+    <li>CSS</li>
+    <li>JavaScript</li>
+    <li>HTML</li>
+    <li>UI/UX Design</li>
+</ol>
+    </body>
+
+</html>
