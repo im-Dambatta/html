@@ -4,8 +4,12 @@
         <meta charset="utf-8">
         <title>Challenge: Seasonal ids</title>
         <style>
-
-
+#summer {
+    color: rgb(165, 42, 110);
+}
+#winter {
+    color: rgb(137, 43, 226);
+}
 
         </style>
     </head>
